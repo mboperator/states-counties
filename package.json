@@ -1,6 +1,6 @@
 {
   "name": "states-counties",
-  "version": "1.2.0",
+  "version": "1.2.1",
   "description": "States and their associated counties.",
   "main": "index.js",
   "scripts": {
